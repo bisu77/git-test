@@ -2,6 +2,6 @@
 
 제 이메일주소는 rudwns7552@gmail.com 입니다.
 
-현재 GitKraken 실습 중입니다.
+수정하였음
 
 대홍님
